@@ -1,4 +1,4 @@
-# Elevvo Internship
+# Elevvo pathways tech Machine learing 1 month Internship
 ## Task 1: Student Score Prediction
 
 Tools & Libraries:
