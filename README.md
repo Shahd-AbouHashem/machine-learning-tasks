@@ -6,6 +6,8 @@ This repo contains the projects I worked on during my **1-month internship with 
 🔗 **LinkedIn Post:** [My Internship Journey](#)  
 🔗 **Author:** [Shahd Mohsen AbouHashem](https://github.com/Shahd-AbouHashem)  
 
+---
+
 [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)  
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/stable/)  
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-teal?logo=pandas)](https://pandas.pydata.org/)  
@@ -14,13 +16,10 @@ This repo contains the projects I worked on during my **1-month internship with 
 [![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)](https://xgboost.ai/)  
 [![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-lightgreen)](https://lightgbm.readthedocs.io/)  
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)](https://jupyter.org/)  
-[![GitHub stars](https://img.shields.io/github/stars/Shahd-AbouHashem/machine-learning-tasks?style=social)](https://github.com/Shahd-AbouHashem/machine-learning-tasks/stargazers)  
 
 ---
 
----
-
-## 📂 Projects Overview  
+## Projects Overview  
 
 ### 1️⃣ Student Score Prediction 
 - **Goal:** Predict students' exam scores based on study hours and other features.  
