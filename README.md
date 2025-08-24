@@ -3,7 +3,7 @@
 Welcome to my **Machine Learning Internship Repository**!  
 This repo contains the projects I worked on during my **1-month internship with Elevvo**, where I explored **regression, classification, recommendation systems, and time-series forecasting** using real-world datasets.  
 
-🔗 **LinkedIn Post:** [My Internship Journey](#)  
+🔗 **LinkedIn Post:** https://www.linkedin.com/posts/shahd-m-abouhashem_github-shahd-abouhashemmachine-learning-tasks-activity-7365448821549473792-ss86?utm_source=share&utm_medium=member_desktop&rcm=ACoAADu-ULUBW-dwP7JTkcuyXjTgYxOF_IjnBQ8
 🔗 **Author:** [Shahd Mohsen AbouHashem](https://github.com/Shahd-AbouHashem)  
 
 ---
