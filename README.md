@@ -78,3 +78,6 @@ Examples:
 
 ---
 
+## 👩‍💻 Authors
+- **Shahd Mohsen AbouHashem** – Mechatronics, Robotics & Automation Engineer  
+🔗 [LinkedIn](https://www.linkedin.com/in/shahd-abouhashem) | [GitHub](https://github.com/Shahd-AbouHashem)  
